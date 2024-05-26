@@ -1,4 +1,4 @@
-# Movies
+# Movies Application
 
 ![Made-With-React](https://img.shields.io/badge/Made_with-React-informational?style=for-the-badge&logo=react) ![Made-With-ReactNative](https://img.shields.io/badge/Made_with-ReactNative-informational?style=for-the-badge&logo=react)
 
